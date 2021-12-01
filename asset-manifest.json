@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Jezhubpel/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Jezhubpel/static/js/main.9064c94b.chunk.js",
+    "main.js.map": "/Jezhubpel/static/js/main.9064c94b.chunk.js.map",
+    "runtime-main.js": "/Jezhubpel/static/js/runtime-main.61483820.js",
+    "runtime-main.js.map": "/Jezhubpel/static/js/runtime-main.61483820.js.map",
+    "static/js/2.67fcfa47.chunk.js": "/Jezhubpel/static/js/2.67fcfa47.chunk.js",
+    "static/js/2.67fcfa47.chunk.js.map": "/Jezhubpel/static/js/2.67fcfa47.chunk.js.map",
+    "static/js/3.e940d08d.chunk.js": "/Jezhubpel/static/js/3.e940d08d.chunk.js",
+    "static/js/3.e940d08d.chunk.js.map": "/Jezhubpel/static/js/3.e940d08d.chunk.js.map",
+    "index.html": "/Jezhubpel/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Jezhubpel/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.67fcfa47.chunk.js.LICENSE.txt": "/Jezhubpel/static/js/2.67fcfa47.chunk.js.LICENSE.txt",
+    "static/media/background.328fbaed.png": "/Jezhubpel/static/media/background.328fbaed.png",
+    "static/media/man.992986b4.png": "/Jezhubpel/static/media/man.992986b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61483820.js",
+    "static/js/2.67fcfa47.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9064c94b.chunk.js"
+  ]
+}
